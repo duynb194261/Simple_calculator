@@ -20,6 +20,6 @@
     <string name="button_label_delete">DEL</string>
     <string name="button_label_clear">C</string>
     <string name="button_label_clearentry">CE</string>
-    <string name="result_initial_value">24</string>
-    <string name="operation_inittial_value">4×6</string>
+    <string name="result_initial_value"></string>
+    <string name="operation_inittial_value"></string>
 </resources>
