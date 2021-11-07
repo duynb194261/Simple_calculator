@@ -1,3 +1,10 @@
+
+
+//                     Thưa thầy ứng dụng của em bị lỗi vừa vào nhập số rồi nhấn dấu thì nó bị hiển thị trên phép tính thành số 0 nhưng
+//                 nhấn C thì nó lại tính được bình thường mà em chưa biết sửa nên thầy có kiểm thử thì nhấn C rồi tính nha thầy 
+
+
+
 package com.example.calculator;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -7,6 +14,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.calculator.R;
 
 public class MainActivity extends AppCompatActivity {
 
